@@ -1,7 +1,6 @@
 /**
  * 
- * @author liunian 
- * 2015/07/01
+ * @author liunian 2015/07/01
  * 
  *  树的镜像
  * 
